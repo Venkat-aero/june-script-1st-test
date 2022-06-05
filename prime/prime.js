@@ -22,4 +22,4 @@ const findPrime = num => {
     };
     return primes[num - 1];
  }
- console.log(` ${findPrime(n)} is in the position of ${n}  `);
+ console.log(`Prime number ${findPrime(n)} is placed in the position of ${n}  `);
